@@ -1,3 +1,2 @@
-# this is testing file
-
-print("testing...")
+def total_sum(prices):
+    return sum(prices)
